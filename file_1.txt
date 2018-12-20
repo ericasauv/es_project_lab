@@ -1,1 +1,2 @@
+what is good.
 hi my name is erica. To create a local repostiroy, you need to do the following: configure the account, creae a directory on desktop and create a text file.
